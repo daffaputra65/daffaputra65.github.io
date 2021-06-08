@@ -1,6 +1,6 @@
 .body-porto {
 	background-image:url(rain.png);
-	background-size:cover;
+	background-size:contain;
 	background-attachment:fixed;
 }
 
