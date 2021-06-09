@@ -1,3 +1,7 @@
+body { 
+	overflow-x:hidden;
+}
+
 .body-porto {
 	background-image:url(rain.png);
 	background-size:contain;
